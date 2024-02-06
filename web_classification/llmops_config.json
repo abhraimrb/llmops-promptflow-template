@@ -2,7 +2,6 @@
     "envs":[
                 {
                    "ENV_NAME": "pr",
-                   "RUNTIME_NAME": "loonyruntime",
                    "KEYVAULT_NAME": "loonyazmlws0509649929",
                    "RESOURCE_GROUP_NAME": "loony-openai-rg-1",
                    "WORKSPACE_NAME": "loony-azml-ws",
@@ -11,7 +10,6 @@
                 },
                 {
                     "ENV_NAME": "dev",
-                    "RUNTIME_NAME": "loonyruntime",
                     "KEYVAULT_NAME": "loonyazmlws0509649929",
                     "RESOURCE_GROUP_NAME": "loony-openai-rg-1",
                     "WORKSPACE_NAME": "loony-azml-ws",
