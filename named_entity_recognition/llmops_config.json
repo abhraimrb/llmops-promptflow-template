@@ -8,7 +8,7 @@
                 "WORKSPACE_NAME": "loony-azml-ws",
                 "STANDARD_FLOW_PATH": "flows/standard",
                 "EVALUATION_FLOW_PATH": "flows/evaluation"
-            },
+            }
             
     ]
 }
