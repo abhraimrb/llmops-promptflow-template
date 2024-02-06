@@ -2,7 +2,7 @@
     "envs":[
                 {
                    "ENV_NAME": "pr",
-                   "KEYVAULT_NAME": "loonyazmlws0509649929",
+                   "KEYVAULT_NAME": "loonyazmlws5689257355",
                    "RESOURCE_GROUP_NAME": "loony-openai-rg-1",
                    "WORKSPACE_NAME": "loony-azml-ws",
                    "STANDARD_FLOW_PATH": "flows/experiment",
@@ -10,7 +10,7 @@
                 },
                 {
                     "ENV_NAME": "dev",
-                    "KEYVAULT_NAME": "loonyazmlws0509649929",
+                    "KEYVAULT_NAME": "loonyazmlws5689257355",
                     "RESOURCE_GROUP_NAME": "loony-openai-rg-1",
                     "WORKSPACE_NAME": "loony-azml-ws",
                     "STANDARD_FLOW_PATH": "flows/experiment",
